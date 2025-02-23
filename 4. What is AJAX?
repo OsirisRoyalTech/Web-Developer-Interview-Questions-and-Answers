@@ -1,0 +1,3 @@
+Answer: 
+AJAX (Asynchronous JavaScript and XML) allows web pages to request data from a server asynchronously (in the background) without refreshing the page. 
+It’s typically used to load new content or send data to a server without affecting the visible part of the page.

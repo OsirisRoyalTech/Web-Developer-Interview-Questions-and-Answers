@@ -1,0 +1,5 @@
+Answer: The CSS box model defines how elements are structured and spaced on a page. It consists of:
+•	Content: The actual content of the box (text, images).
+•	Padding: Space around the content, inside the border.
+•	Border: The border around the padding (optional).
+•	Margin: Space outside the border, separating the element from others.

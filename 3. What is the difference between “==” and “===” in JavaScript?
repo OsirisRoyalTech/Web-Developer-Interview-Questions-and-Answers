@@ -1,0 +1,3 @@
+Answer:
+•	"==" is the loose equality operator and compares values after performing type conversion if necessary (e.g., "5" == 5 returns true).
+•	"===" is the strict equality operator and compares both value and type, meaning no type conversion happens (e.g., "5" === 5 returns false).

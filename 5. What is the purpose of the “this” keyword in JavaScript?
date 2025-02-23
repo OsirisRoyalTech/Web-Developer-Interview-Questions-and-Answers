@@ -1,0 +1,5 @@
+Answer: 
+In JavaScript, this refers to the context in which a function is called. Its value depends on how the function is called:
+•	In global context, this refers to the global object (window in browsers).
+•	Inside a method, this refers to the object the method belongs to.
+•	In a constructor function, this refers to the newly created object.

@@ -1,0 +1,3 @@
+Answer:
+•	HTML (HyperText Markup Language) is a standard for structuring web pages. It’s more lenient with syntax and allows some errors, like missing closing tags.
+•	XHTML (Extensible HyperText Markup Language) is a stricter version of HTML that adheres to XML rules. It requires all tags to be properly closed, and the document must be well-formed.

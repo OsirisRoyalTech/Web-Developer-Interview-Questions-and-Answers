@@ -1,0 +1,4 @@
+Answer: A Promise is an object representing the eventual completion or failure of an asynchronous operation. It has three states:
+•	Pending: The operation is still in progress.
+•	Resolved (or Fulfilled): The operation completed successfully.
+•	Rejected: The operation failed.

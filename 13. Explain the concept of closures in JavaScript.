@@ -1,0 +1,3 @@
+Answer: 
+A closure is a function that retains access to its lexical scope, even when the function is executed outside that scope. 
+In simpler terms, closures allow a function to remember and access variables from the scope in which it was created, even after the outer function has finished executing.

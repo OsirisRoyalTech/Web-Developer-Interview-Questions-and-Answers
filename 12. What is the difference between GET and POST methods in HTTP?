@@ -1,0 +1,3 @@
+Answer:
+•	GET is used to request data from a server. Parameters are appended to the URL, making it visible and not suitable for sensitive data.
+•	POST is used to send data to the server, and the parameters are sent in the body of the request, so it's more secure than GET.

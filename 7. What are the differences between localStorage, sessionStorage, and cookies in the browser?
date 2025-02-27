@@ -1,0 +1,4 @@
+Answer:
+•	localStorage: Stores data with no expiration time. It persists even after the browser is closed.
+•	sessionStorage: Stores data for the duration of the page session (until the browser tab is closed).
+•	cookies: Data stored with an expiration time. They are sent to the server with every HTTP request and can store small amounts of data (up to 4KB).

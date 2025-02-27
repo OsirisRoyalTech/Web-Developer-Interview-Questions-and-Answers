@@ -1,0 +1,3 @@
+Answer:
+•	visibility: hidden hides an element but still occupies space in the layout.
+•	display: none completely removes the element from the layout, so it doesn’t occupy any space.

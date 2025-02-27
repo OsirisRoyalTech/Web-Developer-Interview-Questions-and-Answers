@@ -1,0 +1,3 @@
+Answer: 
+The z-index property in CSS controls the stacking order of elements on a page. Elements with higher z-index values will be placed in front of those with lower values. 
+This property only works on positioned elements (relative, absolute, fixed, or sticky).

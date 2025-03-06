@@ -1,0 +1,4 @@
+Answer:
+•	inline: Elements don’t start on a new line, and only take up as much width as necessary.
+•	block: Elements take up the full width available and start on a new line.
+•	inline-block: Elements are like inline elements but can have set width and height properties.

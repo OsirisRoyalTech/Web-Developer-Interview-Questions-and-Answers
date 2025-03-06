@@ -1,0 +1,8 @@
+Answer: 
+Semantic HTML elements are elements that clearly describe their meaning in a human- and machine-readable way. These elements convey the structure and content of a document more clearly. Examples include:
+•	<article>
+•	<section>
+•	<header>
+•	<footer>
+•	<nav>
+•	<aside>

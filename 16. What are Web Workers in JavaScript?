@@ -1,0 +1,2 @@
+Answer: 
+Web Workers allow JavaScript to run scripts in the background, on a separate thread from the main UI thread. This allows for parallel execution, making applications more responsive and preventing them from becoming unresponsive during long-running tasks.

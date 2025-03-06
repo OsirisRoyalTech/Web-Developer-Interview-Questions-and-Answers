@@ -1,0 +1,3 @@
+Answer:
+•	async: Declares a function as asynchronous, meaning it will return a Promise.
+•	await: Pauses the execution of the function until the Promise is resolved, allowing asynchronous code to be written in a synchronous style.

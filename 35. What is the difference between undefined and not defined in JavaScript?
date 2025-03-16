@@ -1,0 +1,3 @@
+Answer:
+•	undefined: A variable has been declared but not assigned a value.
+•	not defined: A variable has not been declared at all, and trying to access it will result in a ReferenceError.

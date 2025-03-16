@@ -1,0 +1,3 @@
+Answer: 
+WebSockets are a protocol that provides full-duplex communication channels over a single TCP connection. They enable real-time, bidirectional communication between the client and the server. 
+WebSockets are ideal for applications that require constant updates like live chat, real-time gaming, or stock price updates.

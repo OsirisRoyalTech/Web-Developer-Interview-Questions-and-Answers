@@ -1,0 +1,3 @@
+Answer: 
+A CDN is a distributed network of servers that cache content (e.g., images, scripts, stylesheets) to deliver it to users more quickly. 
+CDNs reduce latency by serving content from servers that are geographically closer to the user, improving load times and reducing the strain on the origin server.

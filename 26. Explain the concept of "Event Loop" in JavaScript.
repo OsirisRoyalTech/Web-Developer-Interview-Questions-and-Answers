@@ -1,0 +1,3 @@
+Answer: The Event Loop is the mechanism that allows JavaScript to handle asynchronous operations, like handling events, making AJAX requests, and performing setTimeout/setInterval operations. The event loop constantly checks the call stack and the task queue:
+•	If the call stack is empty, the event loop pushes tasks from the queue to the stack to be executed.
+•	It enables JavaScript to be non-blocking and asynchronous.

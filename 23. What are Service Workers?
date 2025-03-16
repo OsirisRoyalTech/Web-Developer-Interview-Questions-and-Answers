@@ -1,0 +1,3 @@
+Answer: 
+Service Workers are scripts that run in the background of web pages, enabling features like offline caching, background sync, and push notifications. 
+They allow web applications to work offline by intercepting network requests and serving cached content when the network is unavailable.

@@ -1,0 +1,3 @@
+Answer: 
+A RESTful API (Representational State Transfer) is an architectural style for designing networked applications. 
+It uses HTTP methods (GET, POST, PUT, DELETE) and is stateless, meaning each request from the client must contain all the necessary information. RESTful APIs are easy to scale, cache, and maintain.

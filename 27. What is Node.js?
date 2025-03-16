@@ -1,0 +1,3 @@
+Answer: 
+Node.js is a runtime environment built on Chrome’s V8 JavaScript engine that allows JavaScript to be run on the server-side. 
+It is event-driven and non-blocking, making it highly scalable for building fast, real-time web applications, such as chat apps and APIs.

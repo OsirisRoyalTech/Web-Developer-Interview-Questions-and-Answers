@@ -1,0 +1,4 @@
+Answer:
+•	position: absolute: The element is positioned relative to its nearest positioned ancestor (non-static). If no positioned ancestor is found, it is positioned relative to the initial containing block (the viewport).
+•	position: relative: The element is positioned relative to its normal position in the document flow. You can use top, left, right, and bottom to adjust its position.
+•	position: fixed: The element is positioned relative to the viewport. It remains in the same position even when the page is scrolled.

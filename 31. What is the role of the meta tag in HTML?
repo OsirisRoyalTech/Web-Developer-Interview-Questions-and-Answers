@@ -1,0 +1,5 @@
+Answer: The <meta> tag provides metadata about an HTML document. It can be used for various purposes, including:
+•	Defining the character encoding (<meta charset="UTF-8">).
+•	Setting the viewport for responsive design.
+•	Specifying the document description, keywords, and author.
+•	Providing instructions for search engines and social media platforms (e.g., meta name="description").

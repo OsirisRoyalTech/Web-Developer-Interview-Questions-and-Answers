@@ -1,0 +1,3 @@
+Answer: 
+npm is the default package manager for Node.js. It helps developers install, manage, and share packages or libraries needed for a Node.js project. 
+It also helps with handling dependencies and versioning for packages.

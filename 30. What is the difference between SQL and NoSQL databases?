@@ -1,0 +1,3 @@
+Answer:
+•	SQL databases (Structured Query Language) are relational databases that use a structured schema with tables and rows to store data. They are ideal for complex queries and transactional data (e.g., MySQL, PostgreSQL).
+•	NoSQL databases are non-relational databases designed to handle unstructured or semi-structured data. They are more flexible and scalable, typically used for handling large amounts of diverse data (e.g., MongoDB, Cassandra).

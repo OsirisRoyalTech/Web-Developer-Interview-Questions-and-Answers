@@ -1,0 +1,4 @@
+Answer:
+•	var: A function-scoped variable declaration that is hoisted and can be re-declared and updated.
+•	let: A block-scoped variable declaration, which is also hoisted but cannot be re-declared within the same block.
+•	const: A block-scoped variable declaration that is also hoisted. However, once assigned, its value cannot be changed.

@@ -1,0 +1,7 @@
+Answer: CSS selectors are used to select and style elements in a document. Common types include:
+•	Universal Selector (*): Selects all elements.
+•	Type Selector (p, div): Selects elements by tag name.
+•	Class Selector (.className): Selects elements with a specific class.
+•	ID Selector (#idName): Selects an element with a specific ID.
+•	Attribute Selector ([type="text"]): Selects elements with a specific attribute value.
+•	Pseudo-classes (:hover, :nth-child): Selects elements in a specific state or position.
